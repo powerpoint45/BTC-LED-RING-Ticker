@@ -9,6 +9,6 @@ Output of outer LED ring connects to input of inner LED Ring
 
 Display SCL connected to IO22 (which is SCL on the esp32)
 
-Make sure you enter your Wifi username and password below
+Make sure you enter your Wifi username and password in the code
 
 You must press reset after uploading your program in order for the Display to work. Seems to be an issue with the ESP32
